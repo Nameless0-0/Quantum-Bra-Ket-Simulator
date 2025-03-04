@@ -1,4 +1,6 @@
 # Quantum Bra-Ket Simulator
+![image](https://github.com/user-attachments/assets/963cd99e-f936-4b05-a0eb-0216b36cde7d)
+
 
 ## Overview
 
