@@ -34,7 +34,7 @@ pip install streamlit numpy
 
 - **1. Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nameless0-0/Quantum-Bra-Ket-Simulator
 cd <repository-directory>
 ```
 
