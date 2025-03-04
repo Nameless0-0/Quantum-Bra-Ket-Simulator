@@ -1,1 +1,1 @@
-# Quantum-Simulator
+# Quantum Bra-Ket Simulator
